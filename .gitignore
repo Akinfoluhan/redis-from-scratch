@@ -1,0 +1,15 @@
+# Compiled executables
+/server
+/client
+*.o
+*.out
+
+# Build directories
+build/
+cmake-build-*/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
